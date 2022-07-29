@@ -13,10 +13,11 @@ These are some facts about us that you may want to know :open_book:
 2. Indrawati, Ariani
 3. Ismanto, Rido Dwi
 4. Kurniawan, Riski
-5. Murti, Mulya Diana
-6. Muttaqien, Furqon Hensan
-7. Shabrina, Ayu
-8. Wahyuni, Intan Nuni
+5. Linarka, Utoyo Ajie
+6. Murti, Mulya Diana
+7. Muttaqien, Furqon Hensan
+8. Shabrina, Ayu
+9. Wahyuni, Intan Nuni
 
 :earth_asia: **Location : Cibinong and Bandung**
 
