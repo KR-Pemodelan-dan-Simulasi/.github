@@ -2,7 +2,7 @@
 
 ## About
 
-We are one of research group in Research Center for Computing, [National Research and Innovation Agency](https://brin.go.id). We do research on science problems using numerical methods, mathematical models, data-driven models, and statistical approaches. We mainly focus on climate, waves, and hydrometeorology.
+We are one of research groups in Research Center for Computing, [National Research and Innovation Agency](https://brin.go.id). We do research on science problems using numerical methods, mathematical models, data-driven models, and statistical approaches. We mainly focus on climate, waves, and hydrometeorology.
 
 These are some facts about us that you may want to know :open_book:
 
